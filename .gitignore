@@ -1,0 +1,23 @@
+# NetBeans
+/nbproject/private/
+/nbproject/
+/build/
+/dist/
+*.jar
+*.war
+*.ear
+
+# Database
+*.db
+*.sqlite
+*.db-journal
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# OS generated files
+**/._*
