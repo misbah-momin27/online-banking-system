@@ -1,6 +1,6 @@
 # Java Online Banking System
 
-A complete banking application built with Java Swing and MySQL.
+A complete banking application built with Java Swing and SQLite.
 
 ## 🚀 Features
 - Customer Management
