@@ -1,4 +1,4 @@
-# Banking System
+# Online Banking System
 
 A Java-based banking application built with NetBeans.
 
