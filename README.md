@@ -1,20 +1,28 @@
-# Online Banking System
+# Java Online Banking System
 
-A Java-based banking application built with NetBeans.
+A complete banking application built with Java Swing and MySQL.
 
-## Features
+## 🚀 Features
 - Customer Management
-- Account Operations
-- Transaction Processing
+- Account Operations (Deposit, Withdraw, Transfer)
+- Transaction History
+- User Authentication
 - Database Integration
 
-## Technology Stack
+## 🛠️ Technology Stack
 - Java
-- Swing (UI)
-- MySQL/SQLite
+- Swing GUI
+- SQLite Database
 - JDBC
+- MVC Architecture
 
-## Setup Instructions
-1. Import project in NetBeans
-2. Configure database
-3. Run the application
+## 📦 Installation
+1. Clone the repository
+2. Import in NetBeans
+3. Configure database
+4. Run the application
+
+## 👨‍💻 Usage
+- Admin can manage customers and accounts
+- Customers can perform transactions
+- Real-time balance updates
